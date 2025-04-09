@@ -1,1 +1,1 @@
-# An-lise-de-dados
+exercios sobre análise exploratória parte 1
